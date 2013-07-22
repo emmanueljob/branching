@@ -12,3 +12,5 @@ More from test-branch-1
 After Merge
 
 Using gitflow
+
+release 1
